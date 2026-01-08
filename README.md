@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">Entornos de Desarrollo</p>
-
-###
-
 <h2 align="left">Proyecto realizado por:</h2>
 
 ###
