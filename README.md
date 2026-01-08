@@ -1,14 +1,15 @@
-# Scrum_Entornos_de_Desarrollo
+<h1 align="left">🥵Proyecto de Scrum🥵</h1>
 
-Trabajo de Scrum que hemos realizado en la asignatura de Entornos de Desarrollo de 1º de DAM.
+###
 
-Los integrantes del equipo somos:
-  -Raul
-  -Jorge
-  -Andranik
-  -Joel
-  -Alejandro
-  -Mijail
-  -Rubén
-  -
-  
+<p align="left">Entornos de Desarrollo</p>
+
+###
+
+<h2 align="left">Proyecto realizado por:</h2>
+
+###
+
+<p align="left">🩰Andranik🩰<br>🔥Jorge🔥<br>👧🏻Joel👧🏻<br>🌈Alejandro🌈<br>🌜Mijail🌜<br>⚽Raúl⚽<br>👠Rubén👠</p>
+
+###
