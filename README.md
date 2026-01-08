@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">🩰Andranik🩰<br>🔥Jorge🔥<br>👧🏻Joel👧🏻<br>🌈Alejandro🌈<br>🌜Mijail🌜<br>⚽Raúl⚽<br>👠Rubén👠</p>
+<p align="left">🩰Andranik🩰<br>🔥Jorge🔥<br>👧🏻Joel👧🏻<br>Alejandro<br>🌜Mijail🌜<br>⚽Raúl⚽<br>👠Rubén👠</p>
 
 ###
