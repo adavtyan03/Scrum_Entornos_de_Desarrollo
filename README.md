@@ -24,13 +24,13 @@ Nuestra aplicación permite a los usuarios conectar a través de su pasión por 
 
 Hemos dividido el desarrollo en dos iteraciones principales para asegurar la calidad de las funciones críticas:
 
-#### **Sprint 1: Cimientos y Conectividad**
+#### [**Sprint 1:**](https://github.com/users/adavtyan03/projects/7)
 * **US01 - Autenticación:** Acceso seguro al perfil.
 * **US02 - Muro Social:** Interacción visual con otros perfiles.
 * **US03 - Chat:** Coordinación directa entre jugadores.
 * **US04 - Geolocalización:** Búsqueda de partidas cercanas.
 
-#### **Sprint 2: Experiencia y Competición**
+#### [**Sprint 2:**](https://github.com/users/adavtyan03/projects/9)
 * **US05 - Panel de Amigos:** Seguimiento de actividad de contactos.
 * **US06 - Partidas en Tiempo Real:** Datos técnicos y seguimiento en vivo.
 * **US07 - Blog con IA:** Generación de contenido seguro y moderado.
@@ -38,6 +38,13 @@ Hemos dividido el desarrollo en dos iteraciones principales para asegurar la cal
 
 ---
 
+## 🃏 Estimación de Esfuerzo (Planning Poker)
+
+Para garantizar una planificación realista, el equipo ha realizado una sesión de **Planning Poker** utilizando la serie de Fibonacci para estimar la complejidad de cada Historia de Usuario.
+
+Se puede encontrar el detalle técnico de esta votación en el archivo [**`informe.csv`**](https://github.com/adavtyan03/Scrum_Entornos_de_Desarrollo/blob/main/informe.csv) ubicado en la raíz de este repositorio. Este informe incluye:
+
+---
 ## 📋 Product Backlog (Pendientes)
 
 Las siguientes historias de usuario se mantienen en el **Product Backlog** para futuras versiones del producto:
