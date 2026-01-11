@@ -1,0 +1,9 @@
+US08 - Registro y Comunicación con Clubes/Ligas
+Descripción: Como entidad organizadora o jugador interesado, quiero disponer de un directorio centralizado de clubes, torneos y ligas para poder consultar su información oficial.
+
+Criterios de Aceptación:
+· Buscador con filtros por tipo de juego, ubicación y nivel de competitividad.
+· Formulario de contacto integrado que envíe notificaciones a los administradores del club/liga.
+· Perfil de entidad que incluya descripción y lista de miembros activos.
+
+Nota de Desarrollo: Requiere una base de datos relacional sólida para vincular a los usuarios con las distintas organizaciones.
