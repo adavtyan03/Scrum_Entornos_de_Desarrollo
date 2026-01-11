@@ -1,9 +1,0 @@
-US01 - Sistema de Autenticación Seguro
-Descripción: Como usuario interesado en juegos de mesa, quiero crear una cuenta y autenticarme en la aplicación para que mi perfil, historial de partidas y lista de amigos estén protegidos y disponibles en cualquier dispositivo (iOS/Android).
-
-Criterios de Aceptación:
-· Validación de formato de email y robustez de contraseña.
-· Opción de "Recordar sesión".
-· Pantalla de error clara ante credenciales incorrectas.
-
-Nota de Desarrollo: Se utilizará un servicio de autenticación en la nube para garantizar el cifrado de datos.

@@ -1,7 +1,0 @@
-US03 - Chat y Coordinación de Partidas
-Descripción: Como jugador activo, quiero disponer de un chat en tiempo real con otros usuarios para poder discutir reglas, confirmar asistencia o coordinar el lugar de encuentro para las partidas.
-
-Criterios de Aceptación:
-· Indicador de mensajes leídos (doble check).
-· Notificaciones push incluso con la aplicación cerrada.
-· Posibilidad de crear grupos temporales para una partida específica.

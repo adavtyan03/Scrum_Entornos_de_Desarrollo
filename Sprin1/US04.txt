@@ -1,7 +1,0 @@
-US04 - Geolocalización de Partidas Cercanas
-Descripción: Como usuario que busca jugar de forma inmediata, quiero ver un mapa con las partidas que se están organizando cerca de mi ubicación actual para unirme a ellas.
-
-Criterios de Aceptación:
-· Solicitud de permisos de ubicación al iniciar la aplicación.
-· Filtro por radio de distancia (ej. 1km, 5km, 10km).
-· Marcadores visuales diferenciando el tipo de juego en el mapa.
