@@ -1,0 +1,9 @@
+US06 - Visualización de Partidas en Tiempo Real
+Descripción: Como jugador analítico o espectador, quiero acceder a un panel con los datos técnicos y el estado de las partidas físicas que se están disputando en ese momento para conocer las estrategias, el tiempo de juego transcurrido y las estadísticas de los participantes.
+
+Criterios de Aceptación:
+· Visualización de una ficha técnica por partida (nombre del juego, duración actual, número de jugadores).
+· Actualización de datos en vivo (ej. "Ronda 3 de 5" o "Turno del Jugador B").
+· Sección de estadísticas básicas (puntos acumulados por cada jugador durante el transcurso del juego).
+
+Nota de Desarrollo: Esta funcionalidad requiere una conexión constante con el servidor para refrescar los datos sin necesidad de recargar la aplicación manualmente.
