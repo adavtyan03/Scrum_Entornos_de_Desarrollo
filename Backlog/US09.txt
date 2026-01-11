@@ -1,0 +1,7 @@
+US09 - Creación de Competiciones propias
+Descripción: Como usuario organizador, quiero tener la posibilidad de crear mis propios eventos, torneos o ligas personalizadas mediante el pago de una tasa, para gestionar de forma profesional mis grupos de juego.
+
+Criterios de Aceptación:
+· Integración de pasarela de pagos segura (Visa/PayPal) para la transacción económica.
+· Panel de configuración de torneo: número de participantes, sistema de eliminación, fechas y premios.
+· Generación automática de cuadros de emparejamiento (brackets) una vez cerrada la inscripción.
