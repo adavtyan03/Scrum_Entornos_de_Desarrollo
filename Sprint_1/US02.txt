@@ -1,0 +1,7 @@
+US02 - Muro Social Dinámico
+Descripción: Como miembro de la comunidad, quiero acceder a un muro social para visualizar fotos de perfil y estados de otros usuarios, permitiéndome descubrir nuevas caras dentro del ecosistema de jugadores de mi zona o ciudad.
+
+Criterios de Aceptación:
+· Scroll infinito para visualizar perfiles de forma fluida.
+· Botón de acceso rápido al perfil detallado desde la foto del muro.
+· Carga optimizada de imágenes para ahorrar datos móviles.
