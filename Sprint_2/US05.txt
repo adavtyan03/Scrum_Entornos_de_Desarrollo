@@ -1,0 +1,6 @@
+US05 - Panel Lateral de Amigos y Actividad
+Descripción: Como usuario social, quiero un panel lateral dedicado exclusivamente a mis amigos para saber rápidamente en qué clubes están inscritos y qué torneos están jugando hoy.
+
+Criterios de Aceptación:
+· Acceso con un solo gesto (swipe) desde la pantalla principal.
+· Iconos de estado: "Jugando ahora", "En torneo", "Buscando mesa".
