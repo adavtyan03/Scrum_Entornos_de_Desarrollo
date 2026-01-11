@@ -1,0 +1,7 @@
+US10 - Gestor de Puntuaciones y Rankings
+Descripción: Como jugador competitivo, quiero registrar mis victorias y puntos en cada partida para subir en el ranking global de la aplicación y optar a premios.
+
+Criterios de Aceptación:
+· Formulario de entrada de datos post-partida.
+· Cálculo automático del ranking basado en el sistema de puntuación del juego.
+· Visualización de medallas o logros en el perfil del usuario.

@@ -1,0 +1,7 @@
+US07 - Blog con Moderación por IA
+Descripción: Quiero publicar blogs con texto e imágenes sobre mis experiencias de juego, confiando en que un sistema de IA moderará el contenido para mantener la comunidad libre de toxicidad.
+
+Criterios de Aceptación:
+· Editor de texto que permita adjuntar hasta 10 imágenes.
+· Sistema de filtrado automático que bloquee palabras ofensivas antes de publicar.
+· Opción de reportar contenido manualmente por los usuarios.
