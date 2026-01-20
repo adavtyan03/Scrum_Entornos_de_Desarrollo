@@ -36,6 +36,7 @@ Hemos dividido el desarrollo en dos iteraciones principales para asegurar la cal
 * **US07 - Blog con IA:** Generación de contenido seguro y moderado.
 * **US10 - Gestión de Puntuaciones:** Rankings y sistemas de premios.
 
+#### [**Enlace a trello**](https://trello.com/b/KSgD8rBk/scrum)
 ---
 
 ## 🃏 Estimación de Esfuerzo (Planning Poker)
